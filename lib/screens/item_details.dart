@@ -28,7 +28,7 @@ class _GameDetailsState extends State<GameDetails> {
               longText,
               style: TextStyle(
                 fontSize: 16,
-                fontWeight: FontWeight.w300,
+                fontWeight: FontWeight.w400,
               ),
             ),
           ),
